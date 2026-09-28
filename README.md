@@ -1,4 +1,4 @@
-# Hola, soy Emmanuel Jiménez Salas 👋
+# Hola, soy Emmanuel Jiménez
 
 ### Estudiante de Ingeniería en Computación | Full-Stack Web & Data Enthusiast
 
